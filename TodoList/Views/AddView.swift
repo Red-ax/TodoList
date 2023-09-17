@@ -35,7 +35,7 @@ struct AddView: View {
                         .font(.headline)
                         .foregroundColor(.white)
                         .padding(.horizontal)
-                        .background(.cyan)
+                        .background(Color.accentColor)
                         .cornerRadius(10)
                 }
                 
